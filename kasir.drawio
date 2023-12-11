@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-12-11T02:16:42.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="2cewFtA7J9F1M_ki0Uf4" version="22.1.7" type="github">
+  <diagram name="Page-1" id="s2Z6W3V-hKwBDmxhK3DG">
+    <mxGraphModel dx="2343" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-17" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-1" target="WcMQLB0RHta_f3N0VWxI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-2" target="WcMQLB0RHta_f3N0VWxI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-2" value="&lt;div&gt;Inisialisasi&lt;/div&gt;&lt;div&gt;vektor Product&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-19" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-4" target="WcMQLB0RHta_f3N0VWxI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-4" value="Proses&lt;br&gt;Penjualan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-20" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-5" target="WcMQLB0RHta_f3N0VWxI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-5" value="&lt;div&gt;Inisialisasi variable&lt;/div&gt;&lt;div&gt;quantities, totalProducts, discount, dan total.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="330" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-8" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-11" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-6" target="WcMQLB0RHta_f3N0VWxI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-6" value="&lt;div&gt;Loop&lt;/div&gt;&lt;div&gt;show menu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(sudah selesai?)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="430" width="165" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-9" value="YA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="470" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-10" target="WcMQLB0RHta_f3N0VWxI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-10" value="&lt;div&gt;Input jumlah&lt;/div&gt;&lt;div&gt;produk&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-12" target="WcMQLB0RHta_f3N0VWxI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-12" value="&lt;div&gt;Menghitung &lt;br&gt;&lt;/div&gt;&lt;div&gt;total produk&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-13" target="WcMQLB0RHta_f3N0VWxI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="910" />
+              <mxPoint x="10" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-13" target="WcMQLB0RHta_f3N0VWxI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-13" value="&lt;div&gt;Mengecek&lt;/div&gt;&lt;div&gt;diskon&lt;/div&gt;&lt;div&gt;apakah produk &amp;gt; 3 ?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263.25" y="830" width="174.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-14" target="WcMQLB0RHta_f3N0VWxI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-14" value="&lt;div&gt;Cetak bon&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcMQLB0RHta_f3N0VWxI-15" target="WcMQLB0RHta_f3N0VWxI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1000" />
+              <mxPoint x="240" y="1000" />
+              <mxPoint x="240" y="450" />
+              <mxPoint x="100" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-15" value="Proses diskon 10%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-16" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-22" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-28" value="YA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="878" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcMQLB0RHta_f3N0VWxI-29" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="878" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
