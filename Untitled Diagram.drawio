@@ -1,9 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T02:20:34.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.7" etag="OcSweFbgPvlqDBTM6YOj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T02:33:22.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="KvPpOF-lZRFQDpoaoK6B" version="22.1.7" type="github">
   <diagram name="Page-1" id="yW2facujMtYqNYOjnAcc">
-    <mxGraphModel>
+    <mxGraphModel dx="1060" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-1" target="5r5qEjqoZoQrUhr_-02x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-12" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-2" target="5r5qEjqoZoQrUhr_-02x-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-2" value="&lt;div&gt;Input nama file&lt;/div&gt;&lt;div&gt;nota_pembelian.txt&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="5r5qEjqoZoQrUhr_-02x-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="339.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-19" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-4" target="5r5qEjqoZoQrUhr_-02x-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-4" value="&lt;div&gt;Berhasil&lt;/div&gt;&lt;div&gt;dibuka?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-6" target="5r5qEjqoZoQrUhr_-02x-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="170" />
+              <mxPoint x="580" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-6" value="Loop&lt;br&gt;&lt;div&gt;masukkan nama dan harga barang&lt;/div&gt;&lt;div&gt;(0 untuk selesai)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="265" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-17" value="&lt;div&gt;Buka file&lt;/div&gt;&lt;div&gt;nota_pembelian.txt&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-18" target="5r5qEjqoZoQrUhr_-02x-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-18" value="ERROR&lt;br&gt;tampil pesan error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-20" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-22" target="5r5qEjqoZoQrUhr_-02x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-22" value="&lt;div&gt;Write data ke file&lt;/div&gt;&lt;div&gt;nota_pembelian.txt&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5r5qEjqoZoQrUhr_-02x-23" target="5r5qEjqoZoQrUhr_-02x-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-23" value="Menutup file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-26" value="LANJUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="138" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r5qEjqoZoQrUhr_-02x-27" value="SELESAI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
